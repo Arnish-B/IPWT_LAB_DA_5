@@ -1,0 +1,28 @@
+Prompt:
+
+Design a web page named info.html that describes me. On my page, include all of the
+following information:
+• My name as Heading to the website.
+• A description of me in two sentences or less. Highlight the most important
+word(s) by putting them in bold. Mention how I'm doing my engineering in computer science and how i play basketball & chess, also mention how i am a blockchain enthusiast and a budding standup comedian.
+• Make a list with the title "courses opted in Winter Sem '22 - '23 " and under that have the following courses - Internet pragramming and web technology, Microprocessor and microcontrollers, software defined networks, Information security and management, STS, fog and edge computing, Analog & Digital signal processing.
+• Your 3 favourite movies, books, TV shows, in order. Make at least one link to an
+interesting site about that tv show/movie/book
+• Two images, one that represents you when you're happy and the other to represent
+you when you're sad.
+• Something interesting info’s/fact about (COVID -19) in Bangalore with text description and proper alignments.
+• Design a subscription page for your blog and add this to the Homepage.
+The above must contain Input Types listed below:- Textfields, Textarea, checkbox, radio button,
+submit button, reset button, drop down box, date/Year, images.
+• At the end of the page use a Contact Link which directs to another page (Contact.html). Display the Email, Mobile and address Pincode in a Table form. Use the following information:
+	Name: Arnish Bhardwaj
+	Email: arnishb86532@gmail.com
+	Mobile: 7892389386
+	Address: #898, Vidyaranyapura Bengaluru
+• Use background colours and text colours appropriately for a good design.
+• Use properties like font family, size, weight, style.
+• Use appropriate colour on the webpage and make it on a colourful theme. Ensure that there are no absurd colours used neither are there any extremely dark colours used on the webpage.
+
+
+
+
